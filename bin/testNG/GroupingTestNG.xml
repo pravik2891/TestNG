@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="group suite">
+<test name= "test name">
+<groups>
+<run>
+<include name="moto"></include>
+<include name="vivo"></include>
+</run>
+</groups>
+<classes>
+<class name = "testNG.Grouping"></class>
+</classes></test></suite>
